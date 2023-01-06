@@ -12,7 +12,7 @@
 
 O ProjetoNotas é uma aplicação feita em React Native que permite salvar informações localmente através do SQLite.
 
-Esse projeto foi desenvolvido durantes meus estudos na formação de React Native da plataforma da Alura. Especificamente neste curso:
+Esse projeto foi desenvolvido durante meus estudos na formação de React Native da plataforma da Alura. Especificamente neste curso:
 <a href="https://www.alura.com.br/curso-online-react-native-informacoes-localmente">React Native: utilizando Web API</a>
 
 Caso queira acessar o projeto diretamente do repositório da Alura, <a href="https://github.com/alura-cursos/salvandoLocalmente/tree/aula4">clique aqui.</a>
